@@ -7,7 +7,7 @@ const ContactForm = () => {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     const msg = `Olá! Meu nome é ${form.nome}. WhatsApp: ${form.whatsapp}. Nicho: ${form.nicho}. Orçamento: ${form.orcamento}`;
-    window.open(`https://wa.me/5511922029387?text=${encodeURIComponent(msg)}`, "_blank");
+    window.open(`https://wa.me/5511966342625?text=${encodeURIComponent(msg)}`, "_blank");
   };
 
   return (

@@ -1,7 +1,7 @@
 import { MessageCircle, Play, ChevronDown, Target, Sparkles, Globe } from "lucide-react";
 import heroBg from "@/assets/hero-bg.jpg";
 
-const WHATSAPP_URL = "https://wa.me/5511922029387?text=Quero%20saber%20mais%20sobre%20os%20criativos";
+const WHATSAPP_URL = "https://wa.me/5511966342625?text=Quero%20saber%20mais%20sobre%20os%20criativos";
 
 const Hero = () => {
   return (

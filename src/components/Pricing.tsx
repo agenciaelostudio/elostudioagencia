@@ -45,7 +45,7 @@ const packages = [
   },
 ];
 
-const WHATSAPP_BASE = "https://wa.me/5511922029387?text=Quero%20o%20pacote%20";
+const WHATSAPP_BASE = "https://wa.me/5511966342625?text=Quero%20o%20pacote%20";
 
 const Pricing = () => (
   <section id="pacotes" className="py-24 bg-background">
