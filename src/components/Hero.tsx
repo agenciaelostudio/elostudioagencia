@@ -13,13 +13,13 @@ const Hero = () => {
       <div className="absolute inset-0 bg-background/70" />
 
       <div className="relative z-10 container mx-auto px-4 text-center pt-20">
-        <p className="text-sm font-semibold tracking-widest gradient-accent mb-4">ELO STUDIO</p>
+        <p className="text-sm font-semibold tracking-widest mb-4">ELO <span className="gradient-text font-semibold">STUDIO</span></p>
 
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight mb-4">
           Vídeos e Anúncios que{" "}
           <span className="gradient-text">Lotam Sua Agenda</span>
           <br />
-          <span className="text-2xl md:text-3xl lg:text-4xl font-medium text-muted-foreground">
+          <span className="text-2xl md:text-4xl lg:text-5xl font-medium text-foreground">
             — com Google e Meta Ads
           </span>
         </h1>
