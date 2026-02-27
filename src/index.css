@@ -63,7 +63,7 @@
 
 @layer utilities {
   .gradient-text {
-    @apply bg-clip-text text-transparent bg-gradient-to-r from-[hsl(270,70%,60%)] to-[hsl(300,70%,65%)];
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-[hsl(270,70%,60%)] to-[hsl(350,80%,55%)];
   }
 
   .gradient-accent {
